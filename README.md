@@ -7,3 +7,9 @@
 ## SOLUTION ANALYSIS 
 Here is a quick comparison between EEG data that we have collected.
 The distribution of theta waves between the ASD and normal group with higher intensity and the synchronization of theta waves between the frontal and posterior regions between the normal group. 
+
+![solution_analysis](solution_analysis_graph.png)
+
+## WORKFLOW
+
+![solution workflow](workflow.png)
