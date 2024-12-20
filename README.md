@@ -15,4 +15,4 @@ The distribution of theta waves between the ASD and normal group with higher int
 ![solution workflow](workflow.png)
 
 ## take a look at the project 
-[Download the MP3 file]([https://github.com/yourusername/yourrepo/blob/main/path/to/your/file.mp3](https://github.com/dhivakar020/Visual-therapy-to-autistic-kids-using-VR/blob/main/Team%20Zion_OR.mp4))
+[Download the MP3 file](https://github.com/dhivakar020/Visual-therapy-to-autistic-kids-using-VR/blob/main/Team%20Zion_OR.mp4)
